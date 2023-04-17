@@ -1,27 +1,28 @@
 
 body {
-	background-color: #FFE1A8;
+	background-color: #EEEFF4;
 }
 
 h1 { 
-	font-family: 'Cinzel', serif;
+	color: #EEEFF4;
+   font-family: 'Cinzel', serif;
  }
 
  .Quotes {
 
- 	background-color: #C2AEEA;
+ 	background-color: #555C5E;
 
  }
 
  a {
 
-color: #E54F6D;
+color: #555C5E;
 font-family: 'Alegreya Sans SC', sans-serif;
 
  }
 
  p {
-
+   color:#EEEFF4 ;
     font-family: 'Alegreya Sans SC', sans-serif;
  }
 
@@ -33,4 +34,11 @@ font-family: 'Alegreya Sans SC', sans-serif;
  table {
     font-family: 'Alegreya Sans SC', sans-serif;
 
+ }
+
+ img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 40%;
  }
